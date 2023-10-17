@@ -4,7 +4,7 @@
 </div>  
 
 
-### <div align="center">I'm a full-stack developer who loves crafting both the perfect brew and flawless code. With a background in beer sales, I bring a unique blend of tech prowess and sales charm to create websites that are as smooth as a well-poured pint. Cheers to coding!" 🍻</div>  
+### <div align="center">I'm a full-stack developer who loves crafting both the perfect brew and flawless code. With a background in beer sales, I bring a unique blend of tech prowess and sales charm to create applications that are as smooth as a well-poured pint. Cheers to coding!" 🍻</div>  
   
 
 - 🌱 I’m currently learning React.js and DApps on ICP   
