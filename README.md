@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/AlexKiselich/AlexKiselich/assets/110210962/ee30bd76-81a9-43e3-921e-abff6da47eed" align="center" style="width: 50%" />
+<img src="https://github.com/AlexKiselich/AlexKiselich/assets/110210962/1c740f9d-7d47-489c-a5a0-d6933e1eefb7" align="center" style="width: 50%" />
 </div>  
 
 
