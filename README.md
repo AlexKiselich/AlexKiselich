@@ -1,8 +1,8 @@
 
 <div align="center">
-<img src="https://github.com/AlexKiselich/AlexKiselich/assets/110210962/8b5ee113-121d-444f-ae95-bae112920bc4" align="center" style="width: 50%" />
+<img src="https://github.com/AlexKiselich/AlexKiselich/assets/110210962/ee30bd76-81a9-43e3-921e-abff6da47eed" align="center" style="width: 50%" />
 </div>  
-  
+
 
 ### <div align="center">I bring a full-stack development expertise infused with a sales background, particularly in beer sales. My experience includes leveraging Object-Oriented Programming (OOP) principles with Ruby and Ruby on Rails.</div>  
   
