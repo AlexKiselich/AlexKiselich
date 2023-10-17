@@ -1,8 +1,6 @@
-![github-header-image](https://github.com/AlexKiselich/AlexKiselich/assets/110210962/8b5ee113-121d-444f-ae95-bae112920bc4)
-
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://github.com/AlexKiselich/AlexKiselich/assets/110210962/8b5ee113-121d-444f-ae95-bae112920bc4" align="center" style="width: 50%" />
 </div>  
   
 
